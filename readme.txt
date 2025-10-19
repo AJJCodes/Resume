@@ -46,9 +46,9 @@ Soy un **desarrollador con experiencia en aplicaciones web y sistemas de informa
 
 ## 📌 Contacto
 
-- Email: [tu-email@example.com]  
-- LinkedIn: [tu-linkedin]  
-- GitHub: [tu-github]  
+- Email: [anthonyj300@yahoo.com]  
+- LinkedIn: [www.linkedin.com/in/anthony-jackson-120aba273]  
+- GitHub: [https://github.com/AJJCodes]  
 
 ¡Gracias por visitar mi portafolio profesional! 🚀
 
